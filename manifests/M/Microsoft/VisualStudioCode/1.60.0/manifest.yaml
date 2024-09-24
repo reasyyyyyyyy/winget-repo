@@ -1,0 +1,14 @@
+Id: Microsoft.VisualStudioCode
+Version: 1.0.0
+Name: Visual Studio Code
+Publisher: Microsoft Corporation
+AppMoniker: vscode
+Description: A lightweight but powerful source code editor from Microsoft
+Homepage: https://code.visualstudio.com/
+License: MIT
+LicenseUrl: https://github.com/microsoft/vscode/blob/main/LICENSE.txt
+InstallerType: exe
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://update.code.visualstudio.com/latest/win32-x64-user/stable
+    InstallerSha256: 0CD4FBE62D04D3A468409FBE375D9A3EE0949ADFA5158C197412DBED40DAC5BA
